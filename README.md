@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gym Management System
 
 A web-based gym management system that helps track members, trainers, and payments.
